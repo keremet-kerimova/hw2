@@ -124,9 +124,10 @@ lan{
  }
  .footer{
      display: flex;
+     flex: 1 0 0%;
      justify-content: space-around;
      margin-bottom: 50px;
-     margin-top: 40px;
+    
  }
  @media(max-width:700px){
      header{
