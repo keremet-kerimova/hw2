@@ -14,7 +14,7 @@ a{
     color: black;
 }
 .p{
-    margin-left: 10px;
+    margin-left: 1px;
 }
 .bottom{
     color: blue;
@@ -36,3 +36,79 @@ a{
      background-color:  blue;
      color: white;
  }
+ .class{
+      width: 100%;
+      max-width: 450px;
+ }
+ .clas{
+      display:  flex;
+      justify-content: space-around;
+      margin-left: 40px;
+      margin-right: 40px;
+      margin-bottom: 50px;
+      text-align: center;
+ }
+ ul li{
+     list-style-type: none;
+     line-height: 20px;
+ }
+ .cla{
+      margin: 10px;
+      box-shadow:  0px 3px 5px black ;
+      width: 300px;
+      height: 300px;
+      padding-bottom: 20px;
+
+ }
+ .g{
+     color: gray;
+
+ }
+ h5{
+     margin: 0;
+     margin-bottom: 10px;
+ }
+ .cl{
+     padding: 3px;
+     background-color:  white;
+
+ }
+ small{
+      color: gray;
+ }
+ .bottom-1{
+     color: white;
+     background-color: blue;
+     padding: 10px;
+     border-radius: 5px;
+     border: blue solid 1px;
+ }
+ .bottom-1:hover{
+     border:  rgb(44, 44, 245);
+     background-color: rgb(44, 44, 245);
+ }
+ .footer{
+     display: flex;
+     justify-content: space-between;
+     margin-bottom: 50px;
+     margin-top: 40px;
+ }
+ @media(max-width:700px){
+     header{
+         display: flex;
+         flex-direction:  column;
+          align-items: center;
+          align-content:  space-around;
+
+     }
+ }
+ @media(max-width:700px){
+  .clas{
+       display: flex;
+       flex-direction:  column;
+       align-items: center;
+       align-content: space-around;
+       max-width: 800px;
+  }
+ }
+ @media(max-width:700px)
