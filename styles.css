@@ -99,14 +99,15 @@ lan{
  small{
       color: gray;
  }
- .bottom-1{
+ .bottom{
+    font-size: 1.25rem;
      color: white;
      background-color: blue;
-     padding: 10px;
+     padding: 100px;
      border-radius: 5px;
      border: blue solid 1px;
  }
- .bottom-1:hover{
+ .bottom:hover{
      border:  rgb(44, 44, 245);
      background-color: rgb(44, 44, 245);
  }
