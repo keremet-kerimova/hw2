@@ -41,10 +41,11 @@ a{
       max-width: 450px;
  }
  .clas{
-      display:  flex;
+      display:  inline-block;
+
       justify-content: space-around;
-      margin-left: 40px;
-      margin-right: 40px;
+      margin-left: 100px;
+      margin-right: 4px;
       margin-bottom: 50px;
       text-align: center;
  }
