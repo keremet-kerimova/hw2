@@ -47,15 +47,9 @@ lan{
      background-color:  blue;
      color: white;
  }
- p .class{
-      max-width: 100%;
-     padding-right: 250px;
-     padding-left: 250px;
-      margin-top: 0;
-      margin-bottom: 16px;
-      text-align: center;
-
-      
+ main .class{
+  padding-left: 250px;
+  padding-right: 250px;
  }
  .clas{
       display:  inline-block;
@@ -91,8 +85,15 @@ lan{
  .cl{
      padding: 3px;
      background-color:  white;
-
  }
+ .cl h4 small{
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+ 
  small{
       color: gray;
  }
