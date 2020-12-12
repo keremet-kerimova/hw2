@@ -154,7 +154,11 @@ lan{
      }
  }
  h5{
-     font-family: 'Courier New', Courier, monospace;
+
      font-size: 25px;
      text-align: center;
+ }
+ img{
+     margin-top: 45px;
+     margin-right: 25px;
  }
