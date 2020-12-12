@@ -100,16 +100,27 @@ lan{
       color: gray;
  }
  .bottom{
+     
     font-size: 1.25rem;
      color: white;
      background-color: blue;
-     padding: 100px;
+     padding: 10px;
+     margin: 55px;
      border-radius: 5px;
      border: blue solid 1px;
  }
  .bottom:hover{
      border:  rgb(44, 44, 245);
      background-color: rgb(44, 44, 245);
+ }
+ .bottom-1{
+    font-size: 1.25rem;
+    color: rgb(13, 30, 185);
+   background-color: white;
+    padding: 10px;
+    margin: 55px;
+    border-radius: 5px;
+    border: blue solid 1px;
  }
  .footer{
      display: flex;
