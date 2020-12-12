@@ -48,6 +48,11 @@ a{
       margin-bottom: 50px;
       text-align: center;
  }
+ 
+ h4{
+    margin: 0;
+    margin-bottom: 10px;
+}
  ul li{
      list-style-type: none;
      line-height: 20px;
@@ -64,10 +69,7 @@ a{
      color: gray;
 
  }
- h5{
-     margin: 0;
-     margin-bottom: 10px;
- }
+
  .cl{
      padding: 3px;
      background-color:  white;
