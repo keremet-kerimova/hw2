@@ -89,7 +89,7 @@ a{
  }
  .footer{
      display: flex;
-     justify-content: space-between;
+     justify-content: space-around;
      margin-bottom: 50px;
      margin-top: 40px;
  }
@@ -111,4 +111,10 @@ a{
        max-width: 800px;
   }
  }
- @media(max-width:700px)
+ @media(max-width:700px){
+     .footer{
+         display: flex;
+        flex-wrap: wrap;
+        align-content:  stretch;
+     }
+ }
