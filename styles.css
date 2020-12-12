@@ -86,11 +86,13 @@ lan{
      padding: 3px;
      background-color:  white;
  }
- .cl h4 small{
+ h4 small{
     margin-top: 0;
     margin-bottom: .5rem;
     font-weight: 500;
     line-height: 1.2;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
  
