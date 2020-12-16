@@ -232,3 +232,10 @@ ul {
 .col-md {
     flex: 1 0 0%;
 }
+.col-6 {
+    width: 50%;
+}
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
