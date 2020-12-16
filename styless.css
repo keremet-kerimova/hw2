@@ -211,3 +211,24 @@ small {
 h5 {
     font-size: 1.25rem;
 }
+h5{
+margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.link-secondary {
+    color: #6c757d;
+}
+@media (min-width: 768px){
+.col-md {
+    flex: 1 0 0%;
+}
